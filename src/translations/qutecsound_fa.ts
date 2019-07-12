@@ -1873,7 +1873,7 @@ Check environment tab in preferences.</source>
     <message>
         <location filename="../qutecsound.cpp" line="2578"/>
         <source>Korean translation: Jieun Jun</source>
-        <translation type="unfinished"></translation>
+        <translation>ترجمه‌ی کره‌ای: چون چی‌آن</translation>
     </message>
     <message>
         <location filename="../qutecsound.cpp" line="2680"/>
